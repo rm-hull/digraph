@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentScriptType="text/ecmascript" width="695" zoomAndPan="magnify" contentStyleType="text/css" height="559" preserveAspectRatio="xMidYMid meet" overflow="visible" version="1.0">
+<defs>
+<marker refX="10" refY="5" markerUnits="strokeWidth" orient="auto" id="lacij-end-arrow-marker" markerHeight="10" viewBox="0 0 10 10" preserveAspectRatio="xMidYMid meet" markerWidth="14">
+<polyline points="0,0 10,5 0,10 1,5"/>
+</marker>
+</defs>
+<g id="graph0">
+<g id="edge-9-1">
+<line y2="352.49213186831827" marker-end="url(#lacij-end-arrow-marker)" style=" stroke: #000000;  stroke-width: 1; " x1="540.5636838188194" x2="496.4859634319352" y1="377.14424780626916"/>
+</g>
+<g id="edge-8-4">
+<line y2="409.987816540382" marker-end="url(#lacij-end-arrow-marker)" style=" stroke: #000000;  stroke-width: 1; " x1="262.9094307346469" x2="244.81341725285108" y1="513.936421114433"/>
+</g>
+<g id="edge-7-9">
+<line y2="379.99999999999994" marker-end="url(#lacij-end-arrow-marker)" style=" stroke: #000000;  stroke-width: 1; " x1="656.6173878728229" x2="573.2050807568877" y1="314.8628965095479"/>
+</g>
+<g id="edge-4-6">
+<line y2="353.7674229357816" marker-end="url(#lacij-end-arrow-marker)" style=" stroke: #000000;  stroke-width: 1; " x1="261.43593539448983" x2="304.0818327334172" y1="380.0000000000001"/>
+</g>
+<g id="edge-3-9">
+<line y2="409.98781654038186" marker-end="url(#lacij-end-arrow-marker)" style=" stroke: #000000;  stroke-width: 1; " x1="540.5127471163399" x2="556.582562615249" y1="514.601625103032"/>
+</g>
+<g id="edge-2-4">
+<line y2="377.14424780626933" marker-end="url(#lacij-end-arrow-marker)" style=" stroke: #000000;  stroke-width: 1; " x1="144.386796006773" x2="228.7945384564215" y1="313.89316740918"/>
+</g>
+<g id="node-0" transform="translate(425.0, 202.05771365940052)">
+<circle shape=":circle" width="25" style=" fill: white;  stroke: black; " r="20" cx="20" cy="20" height="25"/>
+<text x="20" font-size="12" y="20" style=" dominant-baseline: central; " text-anchor="middle">0</text>
+</g>
+<g id="node-6" transform="translate(302.0577136594005, 325.00000000000006)">
+<circle shape=":circle" width="25" style=" fill: white;  stroke: black; " r="20" cx="20" cy="20" height="25"/>
+<text x="20" font-size="12" y="20" style=" dominant-baseline: central; " text-anchor="middle">6</text>
+</g>
+<g id="node-7" transform="translate(650.0, 280.0)">
+<circle shape=":circle" width="25" style=" fill: white;  stroke: black; " r="20" cx="20" cy="20" height="25"/>
+<text x="20" font-size="12" y="20" style=" dominant-baseline: central; " text-anchor="middle">7</text>
+</g>
+<g id="node-5" transform="translate(334.99999999999994, 202.05771365940055)">
+<circle shape=":circle" width="25" style=" fill: white;  stroke: black; " r="20" cx="20" cy="20" height="25"/>
+<text x="20" font-size="12" y="20" style=" dominant-baseline: central; " text-anchor="middle">5</text>
+</g>
+<g id="node-8" transform="translate(245.0, 513.8268590217984)">
+<circle shape=":circle" width="25" style=" fill: white;  stroke: black; " r="20" cx="20" cy="20" height="25"/>
+<text x="20" font-size="12" y="20" style=" dominant-baseline: central; " text-anchor="middle">8</text>
+</g>
+<g id="node-9" transform="translate(535.884572681199, 369.99999999999994)">
+<circle shape=":circle" width="25" style=" fill: white;  stroke: black; " r="20" cx="20" cy="20" height="25"/>
+<text x="20" font-size="12" y="20" style=" dominant-baseline: central; " text-anchor="middle">9</text>
+</g>
+<g id="node-4" transform="translate(224.11542731880107, 370.0000000000001)">
+<circle shape=":circle" width="25" style=" fill: white;  stroke: black; " r="20" cx="20" cy="20" height="25"/>
+<text x="20" font-size="12" y="20" style=" dominant-baseline: central; " text-anchor="middle">4</text>
+</g>
+<g id="node-3" transform="translate(515.0, 513.8268590217984)">
+<circle shape=":circle" width="25" style=" fill: white;  stroke: black; " r="20" cx="20" cy="20" height="25"/>
+<text x="20" font-size="12" y="20" style=" dominant-baseline: central; " text-anchor="middle">3</text>
+</g>
+<g id="node-1" transform="translate(457.9422863405995, 325.0)">
+<circle shape=":circle" width="25" style=" fill: white;  stroke: black; " r="20" cx="20" cy="20" height="25"/>
+<text x="20" font-size="12" y="20" style=" dominant-baseline: central; " text-anchor="middle">1</text>
+</g>
+<g id="node-2" transform="translate(110.0, 280.00000000000006)">
+<circle shape=":circle" width="25" style=" fill: white;  stroke: black; " r="20" cx="20" cy="20" height="25"/>
+<text x="20" font-size="12" y="20" style=" dominant-baseline: central; " text-anchor="middle">2</text>
+</g>
+</g>
+</svg>
